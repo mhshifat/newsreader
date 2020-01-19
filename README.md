@@ -4,7 +4,7 @@ A simple news reading app.
 
 ### Demo Link
 
-link: []()
+link: [https://newsreadermhs.netlify.com/](https://newsreadermhs.netlify.com/)
 
 ### Technologies Used
 
