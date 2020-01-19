@@ -1,4 +1,4 @@
-## TODOIST Clone
+## News Reader
 
 A simple news reading app.
 
@@ -9,7 +9,7 @@ link: []()
 ### Technologies Used
 
 - React
-- Firebase
+- Hacker News Api
 
 ### License
 
